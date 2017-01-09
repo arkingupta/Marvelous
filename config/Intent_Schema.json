@@ -1,0 +1,16 @@
+{
+"intents": [
+    {
+      "intent": "Marvelous",
+      "slots": [
+        {
+          "name": "Character",
+          "type": "CHARACTERS"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
